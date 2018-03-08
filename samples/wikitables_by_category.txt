@@ -1,0 +1,19 @@
+Movies:
+
+100:    Actor,Movie
+15:    "Actor/Actress","Character","1st Position","2nd Position (if any)"
+21:    "Year","Film","Role","Notes"
+23:    "Film","Year","Role","Notes"
+28:    "Release date","Product name","Version","Notes","Last IE"
+3:    "Title","Pub. date","Rev. ed. date [1]"
+36:    "Film","Year","Score composer","Title song","Composed by","Performed by"
+38:    "#","Original title (top) Alternative title (bottom)","Directed by","Written by","Original airdate","Prod. code"
+400:    Composer,Movie
+5:    "Issue","Car","Film"
+500:    Composer,Movie
+6:    "#","Film","Date of original release"
+8:    "Year","Winner","Film"
+
+
+Books:
+
